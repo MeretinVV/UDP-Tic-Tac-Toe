@@ -1,0 +1,7 @@
+C:\Users\Jack\Desktop\Технология разработки\11. UDP Tic-Tac-Toe\UDP Tic-Tac-Toe\UDP_Server\bin\Debug\UDP_Server.exe.config
+C:\Users\Jack\Desktop\Технология разработки\11. UDP Tic-Tac-Toe\UDP Tic-Tac-Toe\UDP_Server\bin\Debug\UDP_Server.exe
+C:\Users\Jack\Desktop\Технология разработки\11. UDP Tic-Tac-Toe\UDP Tic-Tac-Toe\UDP_Server\bin\Debug\UDP_Server.pdb
+C:\Users\Jack\Desktop\Технология разработки\11. UDP Tic-Tac-Toe\UDP Tic-Tac-Toe\UDP_Server\obj\Debug\UDP_Server.csprojAssemblyReference.cache
+C:\Users\Jack\Desktop\Технология разработки\11. UDP Tic-Tac-Toe\UDP Tic-Tac-Toe\UDP_Server\obj\Debug\UDP_Server.exe
+C:\Users\Jack\Desktop\Технология разработки\11. UDP Tic-Tac-Toe\UDP Tic-Tac-Toe\UDP_Server\obj\Debug\UDP_Server.pdb
+C:\Users\Jack\Desktop\Технология разработки\11. UDP Tic-Tac-Toe\UDP Tic-Tac-Toe\UDP_Server\obj\Debug\UDP_Server.csproj.CoreCompileInputs.cache
